@@ -1,0 +1,8 @@
+Executing script: /Users/jbwilson/Desktop/repos/twilioquest/pythonic_temple/list_iteration.py
+Script arguments: Duke,Ruby,Dottie,Snake,Joe
+Output:
+  File "/Users/jbwilson/Desktop/repos/twilioquest/pythonic_temple/list_iteration.py", line 7
+    pri + name)
+              ^
+SyntaxError: invalid syntax
+
